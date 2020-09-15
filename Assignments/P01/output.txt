@@ -1,0 +1,7 @@
+Name: Junior Taychack
+Program: P01
+Date 15 Sep 2020
+
+Start size: 10
+Max size: 128
+Ending size: 128
